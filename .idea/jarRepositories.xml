@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo1.maven.org" />
+      <option name="name" value="repo1.maven.org" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="codehausSnapshots" />
+      <option name="name" value="Codehaus Snapshots" />
+      <option name="url" value="http://snapshots.maven.codehaus.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mvnrepository.com/" />
+      <option name="name" value="MVN Repo" />
+      <option name="url" value="https://mvnrepository.com/repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central repo m2" />
+      <option name="url" value="http://central.maven.org/maven2" />
+    </remote-repository>
+  </component>
+</project>
